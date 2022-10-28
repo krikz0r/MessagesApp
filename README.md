@@ -7,5 +7,5 @@
 - Message detail screen
 - Deleting messages from list / Core data
 ### Final video:
-https://user-images.githubusercontent.com/75903357/198609437-3d638bae-4428-4269-8ee6-9cc092094494.mov
+https://user-images.githubusercontent.com/75903357/198611862-1625877d-493d-4c69-8eb0-810f59381c8e.mov
 
